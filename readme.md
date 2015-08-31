@@ -50,3 +50,4 @@ View a super detailed [comparison](https://github.com/FormidableLabs/radium/blob
 
 * [React Podcast - 4: Conference Recap & CSS vs Inline Styles](http://reactpodcast.com/2015/08/4-conference-recap-css-vs-inline-styles/)
 * [Shop Talk - 180: PANEL ON “INLINE STYLES”](http://shoptalkshow.com/episodes/180-panel-on-inline-styles/)
+* [Design Details - 56: Lego Bits (feat. Adam Morse)](http://spec.fm/podcasts/design-details/16190)
